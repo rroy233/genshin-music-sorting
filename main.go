@@ -50,7 +50,7 @@ func main() {
 		fName := "./newVersion/" + entry.Name()
 		if lessMap[fMd5] == "" {
 			log.Printf("New file found:%s !!\n", fName)
-			copyfile(fName, "./newVersion/"+entry.Name())
+			copyfile(fName, "./out/"+entry.Name())
 		} else {
 			log.Printf("%s skipped.\n", fName)
 		}
