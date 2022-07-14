@@ -1,6 +1,6 @@
 ## Genshin Extracted Music Sorting
 
-[中文](README_en.md) | EN
+[中文](README.md) | EN
 
 Since the music added to each version of Genshin is scattered in each PCK files, it is very difficult to manually sort out the new music.
 
